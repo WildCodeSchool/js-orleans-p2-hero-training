@@ -22,10 +22,3 @@ body {
     margin: 0;
     padding: 0;
 }
-h1 {
-    font-family: var(--main-font);
-    letter-spacing: 2px;
-}
-h2 h3 h4 {
-    font-family: var(--secondary-font);
-}
