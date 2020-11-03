@@ -2,23 +2,23 @@
 @import url('https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans:wght@600|Red+Rose:wght@300&query=Open+');
 
 :root {
-    --main-font : "Red Rose", cursive;
-    --secondary-font : "Open Sans", cursive;
-    --main-color-font: rgba(0,0,77,1);
-    --secondary-color-font: rgba(255,255,255,1);
-    --spacing : 8px;
-    --spacing-medium : calc(var(--spacing) * 2);
-    --spacing-large : calc(var(--spacing) * 4);
-    --main-color: rgba(0,0,0,0.56); 
-    --secondary-color: rgba(0,10,10,1);
-    --border-color : rgba(0,0,20,1);
-    --border-size : 4px;
-    --border-radius: ;
+  --main-font: 'Red Rose', cursive;
+  --secondary-font: 'Open Sans', cursive;
+  --main-color-font: rgba(0, 0, 77, 1);
+  --secondary-color-font: rgba(255, 255, 255, 1);
+  --spacing: 8px;
+  --spacing-medium: calc(var(--spacing) * 2);
+  --spacing-large: calc(var(--spacing) * 4);
+  --main-color: rgba(0, 0, 0, 0.56);
+  --secondary-color: rgba(0, 10, 10, 1);
+  --border-color: rgba(0, 0, 20, 1);
+  --border-size: 4px;
+  --border-radius: ;
 }
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 body {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }

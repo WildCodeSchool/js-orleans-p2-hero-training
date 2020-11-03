@@ -1,5 +1,11 @@
+import Header from './components/Header/Header';
+
 function App() {
-  return <div>coucou</div>;
+  return (
+    <div>
+      <Header />
+    </div>
+  );
 }
 
 export default App;
